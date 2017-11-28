@@ -1,0 +1,30 @@
+.body{
+	background-image: url(YdawRhk.jpg);
+	background-color: #000;
+	background-repeat: repeat-x;
+}
+.name{
+	color:#FFF;
+}
+
+.main-menu{
+	background:#003;
+}
+
+.main-menu-middle-2 {
+	position: absolute;
+	left: 1px;
+	top: -1px;
+	width: 806px;
+	height: 806px;
+	z-index: 2;
+}
+.main-menu-middle {
+  
+  position:absolute;
+  left: 100px;
+  top: 0px;
+  width: 806px;
+  height: 806px;
+  z-index: 1;
+}

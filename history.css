@@ -1,0 +1,19 @@
+.history-middle-2 {
+  
+  position: absolute;
+  left: 00px;
+  top: 0px;
+  width: 806px;
+  height: 806px;
+  z-index: 2;
+}
+.history-middle {
+  
+  position:absolute;
+  left: 400px;
+  top: 0px;
+  width: 806px;
+  height: 806px;
+  z-index: 1;
+}
+	

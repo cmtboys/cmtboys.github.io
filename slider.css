@@ -1,0 +1,49 @@
+#outerbox
+{
+	width:960px;
+	overflow:hidden;
+	}
+
+#sliderbox
+{
+	position:relative;
+	width:2880px;
+	animation-name:cmt;
+	animation-duration:15s;
+	}
+#sliderbox img
+{
+	float:left;
+	}
+
+@keyframes cmt{
+
+    0%{
+	left:0px;
+	}
+	26%
+	{
+		left:0px;
+		}
+	33%
+	{
+	left:-960px;	
+		}
+	60%
+	{
+	left:-960px;	
+		}	
+	66%
+	{
+	left:-1920px;	
+		}
+		93%
+		{
+			left:-1920px;
+			}	
+			100%
+			{
+				left:2880px;
+				}
+		
+}
